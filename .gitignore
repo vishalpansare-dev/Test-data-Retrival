@@ -1,0 +1,8 @@
+settings.gradle
+.github
+.git
+.gradle
+.idea
+build
+.vscode
+.gradle/
